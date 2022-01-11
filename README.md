@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Link to the website: https://chat-house.netlify.app/
+You can view the interface using : username: test  password: test
+
+## Introduction 
+The chat application app is developed using a library called ChatEngine. The whole application is made in react. The application has many features such as sending message, receiving message, sending image, showing online status of the person, add groups and delete groups. There is login form for each user. 
+
 ## Available Scripts
 
 In the project directory, you can run:
